@@ -18,4 +18,5 @@
   		$json['sucesso'] = "Escolhido com Sucesso!";
 		echo json_encode($json);
 	}
+	
 ?>
